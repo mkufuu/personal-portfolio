@@ -1,0 +1,11 @@
+body {
+    border: 0;
+    width: 90vw;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+nav {
+    padding: 0.5rem;
+}
